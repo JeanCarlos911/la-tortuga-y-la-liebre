@@ -1,5 +1,5 @@
 # 🏹 Ejercicios
-Ejercicios para reforzar y mejorar habilidades. 🏹
+Ejercicios para reforzar y mejorar habilidades.
 
-### Guia
+### 🏹 Guia
 Una breve descripción de cada problema se encuentra en la pestaña ```Wiki``` del repositorio.
